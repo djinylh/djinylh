@@ -15,7 +15,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=djinylh&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/djinylh"
-  width="800"
-  height="200"
+  width="1000"
+  height="120"
 />
 </a>
