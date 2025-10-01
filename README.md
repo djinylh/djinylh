@@ -2,7 +2,7 @@
 <img
   src="https://render.gitanimals.org/farms/djinylh"
   width="600"
-  height="100"
+  height="600"
 />
 </a>
 
