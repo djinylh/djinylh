@@ -17,6 +17,4 @@
 ---
 
 ## 📊 활동 & 통계
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=djinylh&theme=tokyonight&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djinylh&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
