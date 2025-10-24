@@ -23,8 +23,8 @@
 </div>
 
 ## Activity & Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djinylh&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djinylh&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=djinylh&utm_content=farm">
 <img
