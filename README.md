@@ -1,7 +1,7 @@
 <h1 align="center">✋🏻, I'm Heejin</h1>
 <h3 align="center">I'm Susanna 🌷</h3>
 
-<br><br><br><br>
+<br><br><br>
 ## 📚 Portfolio & Study Archive
 This Notion page contains my learning journey and portfolio projects.  
 Feel free to check out my progress and works
@@ -36,7 +36,7 @@ You can explore the full documentation and workflow in our Notion page below
 
 <br><br>
 
-## Activity & Stats
+## 📊 Activity & Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djinylh&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
 
