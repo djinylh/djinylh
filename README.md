@@ -1,14 +1,12 @@
 <h1 align="center">✋🏻, I'm Heejin</h1>
 <h3 align="center">i'm susanna</h3>
 
----
 
 ## 🚀 Team Project
 💡 I participated in the **Team Project _“aaa”_** as a developer.  
 You can explore the full documentation and workflow in our Notion page below 👇  
 👉 [View Team Project Documentation (Notion)](https://www.notion.so/Hanip-23a720c7237a802482a3f8554835cae4)
 
----
 ## 📚 Portfolio & Study Archive
 This Notion page contains my learning journey and portfolio projects.  
 Feel free to check out my progress and works 👇  
@@ -32,6 +30,8 @@ Feel free to check out my progress and works 👇
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 <br>
 </div>
+
+---
 
 ## Activity & Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
