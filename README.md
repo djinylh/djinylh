@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi :손인사:, I'm Heejin</h1>
+<h3 align="center">i'm susanna</h3>
 
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
 
