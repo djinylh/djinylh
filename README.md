@@ -1,6 +1,6 @@
 
 
-<img src="https://img.shields.io/badge/CSS-#663399?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
 
 
 
