@@ -1,7 +1,7 @@
 <h1 align="center">✋🏻, I'm Heejin</h1>
-<h3 align="center">i'm susanna</h3>
+<h3 align="center">I'm Susanna 🌷</h3>
 
-
+<br><br><br>
 ## 🚀 Team Project
 💡 I participated in the **Team Project _“aaa”_** as a developer.  
 You can explore the full documentation and workflow in our Notion page below 👇  
