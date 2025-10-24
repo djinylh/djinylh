@@ -1,7 +1,7 @@
 <h1 align="center">✋🏻, I'm Heejin</h1>
 <h3 align="center">I'm Susanna 🌷</h3>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 ## 📚 Portfolio & Study Archive
 This Notion page contains my learning journey and portfolio projects.  
 Feel free to check out my progress and works 👇  
