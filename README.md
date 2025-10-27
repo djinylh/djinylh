@@ -38,7 +38,7 @@ You can explore the full documentation and workflow in our Notion page below
 
 ## 📊 Activity & Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djinylh&layout=compact&theme=tokyonight)](https://github.com/your-github-username/github-readme-stats)
+
 
 ---
 
