@@ -1,5 +1,4 @@
-<h1 align="center">✋🏻, I'm Heejin</h1>
-<h3 align="center">I'm Susanna 🌷</h3>
+<h1 align="center">🌷, I'm Heejin(Susanna)</h1>
 
 <br><br><br>
 ## 📚 Portfolio & Study Archive
