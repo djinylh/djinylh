@@ -2,7 +2,7 @@
 
 <br><br><br>
 ## 📚 포크폴리오와 공부 기록
-## Portfolio & Study Archive
+### Portfolio & Study Archive
 해당 노션은 저의 공부 기록과 참여했던 프로젝트들이 담긴 포트폴리오가 포함되어 있습니다.
 진행 사항과 작업을 자유롭게 확인하실 수 있습니다.
 This Notion page contains my learning journey and portfolio projects.  
@@ -12,7 +12,7 @@ Feel free to check out my progress and works
 
 
 ## 🚀 팀 프로젝트
-## Team Project
+### Team Project
 신입 개발자가 되기 위해서 배달 웹 플랫폼 프로젝트인 "Hanip"에 참가하였습니다.
 아래 페이지에서 팀 프로젝트의 문서들을 확인하실 수 있습니다.
 I participated in the **Team Project _“Hanip”_** as a developer.  
