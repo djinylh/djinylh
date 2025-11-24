@@ -1,8 +1,7 @@
 <h1 align="center">🌷 I'm Heejin(Susanna)</h1>
 
-
+<br><br><br>
 <div align=center>
-  <h3>🎓Stack</h6>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
