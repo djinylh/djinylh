@@ -1,15 +1,21 @@
-<h1 align="center">🌷, I'm Heejin(Susanna)</h1>
+<h1 align="center">🌷 I'm Heejin(Susanna)</h1>
 
 <br><br><br>
-## 📚 Portfolio & Study Archive
+## 📚 포크폴리오와 공부 기록
+## Portfolio & Study Archive
+해당 노션은 저의 공부 기록과 참여했던 프로젝트들이 담긴 포트폴리오가 포함되어 있습니다.
+진행 사항과 작업을 자유롭게 확인하실 수 있습니다.
 This Notion page contains my learning journey and portfolio projects.  
 Feel free to check out my progress and works
 <br>
 👉 [Visit My Notion Portfolio](https://complex-emmental-e6c.notion.site/Development-Study-1f9f966107ab80708cf1ec1eb7d5b960)
 
 
-## 🚀 Team Project
-💡 I participated in the **Team Project _“Hanip”_** as a developer.  
+## 🚀 팀 프로젝트
+## Team Project
+신입 개발자가 되기 위해서 배달 웹 플랫폼 프로젝트인 "Hanip"에 참가하였습니다.
+아래 페이지에서 팀 프로젝트의 문서들을 확인하실 수 있습니다.
+I participated in the **Team Project _“Hanip”_** as a developer.  
 You can explore the full documentation and workflow in our Notion page below 
 <br>
 👉 [View Team Project Documentation (Notion)](https://www.notion.so/Hanip-23a720c7237a802482a3f8554835cae4)
