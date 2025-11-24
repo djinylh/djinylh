@@ -1,5 +1,23 @@
 <h1 align="center">🌷 I'm Heejin(Susanna)</h1>
 
+
+<div align=center>
+  <h3>🎓Stack</h6>
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Java-C00000?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<br>
+</div>
+
 <br><br><br>
 ## 📚 포크폴리오와 공부 기록
 ### Portfolio & Study Archive
@@ -21,25 +39,6 @@ You can explore the full documentation and workflow in our Notion page below
 👉 [View Team Project Documentation (Notion)](https://www.notion.so/Hanip-23a720c7237a802482a3f8554835cae4)
 
 <br><br><br>
-
-<div align=center>
-  <h3>🎓Stack</h6>
-<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Java-C00000?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-<br>
-</div>
-
-<br><br>
 
 ## 📊 Activity & Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
