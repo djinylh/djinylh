@@ -41,7 +41,6 @@ You can explore the full documentation and workflow in our Notion page below
 
 ## 📊 Activity & Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true&theme=vue)
-https://github-readme-stats.vercel.app/api?username=djinylh&show_icons=true
 
 
 ---
