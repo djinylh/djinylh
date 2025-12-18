@@ -30,8 +30,9 @@
 ### Team Project
 신입 개발자가 되기 위해서 배달 웹 플랫폼 프로젝트인 "Hanip"에 참가하였습니다.
 아래 페이지에서 팀 프로젝트의 문서들을 확인하실 수 있습니다.
-👉 [View Team Project Documentation (Notion)](https://www.notion.so/Hanip-23a720c7237a802482a3f8554835cae4)
 <br>
+👉 [View Team Project Documentation (Notion)](https://www.notion.so/Hanip-23a720c7237a802482a3f8554835cae4)
+<br><br>
 또한 은행 DB 설계·자동화·최적화 프로젝트인 "BankFarm"에 참가하였습니다.
 <br>
 👉 [View Team Project Documentation (Notion)](https://www.notion.so/SQL-2a7b5ca759e88044a91bed364fe9acf7)
